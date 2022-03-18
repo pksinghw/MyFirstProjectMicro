@@ -1,0 +1,29 @@
+Student App
+
+Two Services
+
+1. Course Services
+2. Student Services
+
+Tables -
+ 1. Student
+     id (p.K.), sname, dob, total, result, courseid (f.k)
+ 2. Course
+     courseid (p.k.), cname, noOfSubjects, duration.
+
+Spring-Security layer
+
+The app will have a security layer.
+
+Unittesting will also be mandatory
+
+Define a method to input an array of 4 numbers.
+ Calculate total and percentage 
+ Display the result 
+
+
+
+
+
+
+
