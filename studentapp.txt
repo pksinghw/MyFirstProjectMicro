@@ -20,7 +20,7 @@ Unittesting will also be mandatory
 Define a method to input an array of 4 numbers.
  Calculate total and percentage 
  Display the result 
-
+#add sussesful
 
 
 
